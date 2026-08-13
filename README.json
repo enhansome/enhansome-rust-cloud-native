@@ -24,7 +24,7 @@
             "last_commit": "2026-08-12T14:23:40Z",
             "owner": "firecracker-microvm",
             "repo": "firecracker",
-            "stars": 36028
+            "stars": 36031
           }
         },
         {
@@ -77,7 +77,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T03:49:34Z",
+            "last_commit": "2026-08-13T06:37:01Z",
             "owner": "databendlabs",
             "repo": "databend",
             "stars": 9412
@@ -175,10 +175,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T01:14:19Z",
+            "last_commit": "2026-08-13T06:22:44Z",
             "owner": "dragonflyoss",
             "repo": "nydus",
-            "stars": 1630
+            "stars": 1631
           }
         },
         {
@@ -189,7 +189,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T03:27:43Z",
+            "last_commit": "2026-08-13T06:54:05Z",
             "owner": "hook0",
             "repo": "hook0",
             "stars": 1475
@@ -307,10 +307,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T02:24:19Z",
+            "last_commit": "2026-08-13T05:40:10Z",
             "owner": "apache",
             "repo": "opendal",
-            "stars": 5311
+            "stars": 5312
           }
         },
         {
@@ -421,7 +421,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:00:13.131Z",
+    "last_updated": "2026-08-13T06:56:54.335Z",
     "original_repository": "awesome-rust-cloud-native/awesome-rust-cloud-native",
     "original_repository_sha": "224f47fe71ba309ebf934de9622512edc1ab6a65",
     "enhanced_repository": "enhansome/enhansome-rust-cloud-native",
