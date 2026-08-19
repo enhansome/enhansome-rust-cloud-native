@@ -1,428 +1,450 @@
 {
   "items": [
     {
-      "description": "\"Rust Cloud Native\" has been converted to \"Awesome Rust Cloud Native\". For more details, please read the announcement.",
-      "items": [],
-      "title": "Announcement"
-    },
-    {
       "description": "Please refer to CONTRIBUTING.md for more details!\nThis project exists to showcase cloud native Rust projects and provide a collection of cloud native Rust resources. We feature projects that exist in our space for the purpose of connecting our greater community, but we are not affiliated with these projects unless specified. Explicit consent from maintainers and owners must be given for affiliation. Thus, you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!",
-      "items": [],
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "firecracker-microvm/firecracker: secure and fast microVMs for serverless computing",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 107505869,
+                "language": "Rust",
+                "last_commit": "2026-08-19T10:47:59Z",
+                "owner": "firecracker-microvm",
+                "repo": "firecracker",
+                "stars": 36138
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "valeriansaliou/sonic: fast, lightweight & schema-less search backend",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 172714919,
+                "language": "Rust",
+                "last_commit": "2026-08-16T15:04:04Z",
+                "owner": "valeriansaliou",
+                "repo": "sonic",
+                "stars": 21315
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tikv/tikv: distributed transactional key-value database",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 48833910,
+                "language": "Rust",
+                "last_commit": "2026-08-19T10:37:56Z",
+                "owner": "tikv",
+                "repo": "tikv",
+                "stars": 16807
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "bottlerocket-os/bottlerocket: an operating system designed for hosting containers",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 179385712,
+                "language": "Rust",
+                "last_commit": "2026-08-19T05:25:27Z",
+                "owner": "bottlerocket-os",
+                "repo": "bottlerocket",
+                "stars": 9662
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "datafuselabs/datafuse: A Modern Real-Time Data Processing & Analytics DBMS with Cloud-Native Architecture, built to make the Data Cloud easy",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 302827809,
+                "language": "Rust",
+                "last_commit": "2026-08-19T12:44:14Z",
+                "owner": "databendlabs",
+                "repo": "databend",
+                "stars": 9415
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kata-containers/kata-containers: VM-based container runtime with the security of virtual machine and speed of container",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 113404957,
+                "language": "Rust",
+                "last_commit": "2026-08-19T11:50:15Z",
+                "owner": "kata-containers",
+                "repo": "kata-containers",
+                "stars": 8573
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "containers/youki: a container runtime written in Rust",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 352051262,
+                "language": "Rust",
+                "last_commit": "2026-08-18T00:44:57Z",
+                "owner": "youki-dev",
+                "repo": "youki",
+                "stars": 7555
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "infinyon/fluvio: A cloud-native real-time data streaming platform with in-line computation capabilities",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 205473061,
+                "language": "Rust",
+                "last_commit": "2026-08-11T06:36:29Z",
+                "owner": "fluvio-community",
+                "repo": "fluvio",
+                "stars": 5242
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "krustlet/krustlet: Kubernetes Rust Kubelet",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 226983227,
+                "language": "Rust",
+                "last_commit": "2023-10-02T18:41:06Z",
+                "owner": "krustlet",
+                "repo": "krustlet",
+                "stars": 3604
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "linkerd/linkerd2-proxy: a purpose-built proxy for the Linkerd service mesh",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 140121383,
+                "language": "Rust",
+                "last_commit": "2026-08-19T04:25:02Z",
+                "owner": "linkerd",
+                "repo": "linkerd2-proxy",
+                "stars": 2140
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "containers/krunvm: manage lightweight VMs created from OCI images",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 333174273,
+                "language": "Rust",
+                "last_commit": "2026-02-09T11:22:20Z",
+                "owner": "libkrun",
+                "repo": "krunvm",
+                "stars": 1734
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dragonflyoss/image-service: container image service focused on speed, space, network efficiency and data integrity, replacement of OCI",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 296550082,
+                "language": "Rust",
+                "last_commit": "2026-08-18T08:47:16Z",
+                "owner": "dragonflyoss",
+                "repo": "nydus",
+                "stars": 1641
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "hook0/hook0: open-source webhooks-as-a-service platform handling event delivery, retries, and HMAC signatures",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 387804799,
+                "language": "Rust",
+                "last_commit": "2026-08-19T12:50:07Z",
+                "owner": "hook0",
+                "repo": "hook0",
+                "stars": 1477
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "openebs/mayastor: A cloud native declarative data plane in containers for containers",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 204673264,
+                "language": "Rust",
+                "last_commit": "2026-08-19T09:15:56Z",
+                "owner": "openebs",
+                "repo": "mayastor",
+                "stars": 1061
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tremor-rs/tremor-runtime: an event processing system that supporting complex workflows such as aggregation, rollups, an ETL language, and a query language",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 211798430,
+                "language": "Rust",
+                "last_commit": "2025-07-27T13:35:37Z",
+                "owner": "tremor-rs",
+                "repo": "tremor-runtime",
+                "stars": 932
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "apache/incubator-teaclave: open source universal secure computing platform, making computation on privacy-sensitive data safe and simple",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 195861277,
+                "language": null,
+                "last_commit": "2026-06-10T01:27:17Z",
+                "owner": "apache",
+                "repo": "teaclave",
+                "stars": 805
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kube-rs/controller-rs: a Kubernetes example controller",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 183964538,
+                "language": "Rust",
+                "last_commit": "2026-07-20T23:55:01Z",
+                "owner": "kube-rs",
+                "repo": "controller-rs",
+                "stars": 339
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rancher-sandbox/lockc: eBPF-based MAC security audit for container workloads",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 360682696,
+                "language": "Rust",
+                "last_commit": "2024-06-02T14:22:14Z",
+                "owner": "lockc-project",
+                "repo": "lockc",
+                "stars": 234
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kubewarden/policy-server: webhook server that evaluates WebAssembly policies to validate Kubernetes requests",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 321691643,
+                "language": "Rust",
+                "last_commit": "2026-01-19T09:56:31Z",
+                "owner": "kubewarden",
+                "repo": "policy-server",
+                "stars": 151
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kube-rs/version-rs: example Kubernetes reflector and web server",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 197987967,
+                "language": "Rust",
+                "last_commit": "2026-08-17T22:46:32Z",
+                "owner": "kube-rs",
+                "repo": "version-rs",
+                "stars": 54
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Applications and Services"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "datafuselabs/opendal: access different storage services painlessly and efficiently with no vendor lock-in",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 459025965,
+                "language": "Rust",
+                "last_commit": "2026-08-19T03:01:16Z",
+                "owner": "apache",
+                "repo": "opendal",
+                "stars": 5325
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kube-rs/kube-rs: Kubernetes Rust client and async controller runtime",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 157133149,
+                "language": "Rust",
+                "last_commit": "2026-08-04T19:14:52Z",
+                "owner": "kube-rs",
+                "repo": "kube",
+                "stars": 3803
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "open-telemetry/opentelemetry-rust: OpenTelemetry is a set of APIs, SDKs, tooling and integrations that are designed for the creation and management of telemetry data such as traces, metrics, and logs.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 221058575,
+                "language": "Rust",
+                "last_commit": "2026-08-19T08:51:04Z",
+                "owner": "open-telemetry",
+                "repo": "opentelemetry-rust",
+                "stars": 2684
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "containers/libkrun: a dynamic library providing Virtualization-based process isolation capabilities",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 287326438,
+                "language": "Rust",
+                "last_commit": "2026-08-19T11:02:59Z",
+                "owner": "libkrun",
+                "repo": "libkrun",
+                "stars": 2602
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "qovery/engine: An open-source abstraction layer library that turns easy apps deployment on AWS, GCP, Azure, and other Cloud providers",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 305982568,
+                "language": "Rust",
+                "last_commit": "2026-08-18T15:08:27Z",
+                "owner": "Qovery",
+                "repo": "engine",
+                "stars": 2459
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "deislabs/runwasi: a project to facilitate running wasm workloads managed by containerd either directly (ie. through ctr) or as directed by Kubelet via the CRI plugin",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 452780719,
+                "language": "Rust",
+                "last_commit": "2026-08-19T00:15:44Z",
+                "owner": "containerd",
+                "repo": "runwasi",
+                "stars": 1329
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "olix0r/kubert: Kubernetes runtime helpers based on kube-rs",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 460711569,
+                "language": "Rust",
+                "last_commit": "2026-08-14T03:03:45Z",
+                "owner": "olix0r",
+                "repo": "kubert",
+                "stars": 182
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "passcod/cni-plugins: crate/framework to write CNI (container networking) plugins in Rust (includes a few custom plugins as well)",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 352305531,
+                "language": "Rust",
+                "last_commit": "2022-04-22T01:49:43Z",
+                "owner": "passcod",
+                "repo": "cni-plugins",
+                "stars": 20
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Libraries"
+        }
+      ],
       "title": "Contributing"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "firecracker-microvm/firecracker: secure and fast microVMs for serverless computing",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-19T00:39:16Z",
-            "owner": "firecracker-microvm",
-            "repo": "firecracker",
-            "stars": 36134
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "valeriansaliou/sonic: fast, lightweight & schema-less search backend",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-16T15:04:04Z",
-            "owner": "valeriansaliou",
-            "repo": "sonic",
-            "stars": 21315
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tikv/tikv: distributed transactional key-value database",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-19T01:15:18Z",
-            "owner": "tikv",
-            "repo": "tikv",
-            "stars": 16806
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "bottlerocket-os/bottlerocket: an operating system designed for hosting containers",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-19T05:25:27Z",
-            "owner": "bottlerocket-os",
-            "repo": "bottlerocket",
-            "stars": 9662
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "datafuselabs/datafuse: A Modern Real-Time Data Processing & Analytics DBMS with Cloud-Native Architecture, built to make the Data Cloud easy",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-19T05:37:12Z",
-            "owner": "databendlabs",
-            "repo": "databend",
-            "stars": 9414
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "kata-containers/kata-containers: VM-based container runtime with the security of virtual machine and speed of container",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-18T22:00:12Z",
-            "owner": "kata-containers",
-            "repo": "kata-containers",
-            "stars": 8570
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "containers/youki: a container runtime written in Rust",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-18T00:44:57Z",
-            "owner": "youki-dev",
-            "repo": "youki",
-            "stars": 7553
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "infinyon/fluvio: A cloud-native real-time data streaming platform with in-line computation capabilities",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-11T06:36:29Z",
-            "owner": "fluvio-community",
-            "repo": "fluvio",
-            "stars": 5242
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "krustlet/krustlet: Kubernetes Rust Kubelet",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2023-10-02T18:41:06Z",
-            "owner": "krustlet",
-            "repo": "krustlet",
-            "stars": 3604
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "linkerd/linkerd2-proxy: a purpose-built proxy for the Linkerd service mesh",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-19T04:25:02Z",
-            "owner": "linkerd",
-            "repo": "linkerd2-proxy",
-            "stars": 2140
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "containers/krunvm: manage lightweight VMs created from OCI images",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-02-09T11:22:20Z",
-            "owner": "libkrun",
-            "repo": "krunvm",
-            "stars": 1734
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "dragonflyoss/image-service: container image service focused on speed, space, network efficiency and data integrity, replacement of OCI",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-18T08:47:16Z",
-            "owner": "dragonflyoss",
-            "repo": "nydus",
-            "stars": 1641
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "hook0/hook0: open-source webhooks-as-a-service platform handling event delivery, retries, and HMAC signatures",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-19T04:56:19Z",
-            "owner": "hook0",
-            "repo": "hook0",
-            "stars": 1477
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "openebs/mayastor: A cloud native declarative data plane in containers for containers",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-18T10:58:29Z",
-            "owner": "openebs",
-            "repo": "mayastor",
-            "stars": 1060
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tremor-rs/tremor-runtime: an event processing system that supporting complex workflows such as aggregation, rollups, an ETL language, and a query language",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-07-27T13:35:37Z",
-            "owner": "tremor-rs",
-            "repo": "tremor-runtime",
-            "stars": 932
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "apache/incubator-teaclave: open source universal secure computing platform, making computation on privacy-sensitive data safe and simple",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-06-10T01:27:17Z",
-            "owner": "apache",
-            "repo": "teaclave",
-            "stars": 805
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "kube-rs/controller-rs: a Kubernetes example controller",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-07-20T23:55:01Z",
-            "owner": "kube-rs",
-            "repo": "controller-rs",
-            "stars": 339
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "rancher-sandbox/lockc: eBPF-based MAC security audit for container workloads",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2024-06-02T14:22:14Z",
-            "owner": "lockc-project",
-            "repo": "lockc",
-            "stars": 234
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "kubewarden/policy-server: webhook server that evaluates WebAssembly policies to validate Kubernetes requests",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Rust",
-            "last_commit": "2026-01-19T09:56:31Z",
-            "owner": "kubewarden",
-            "repo": "policy-server",
-            "stars": 151
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "kube-rs/version-rs: example Kubernetes reflector and web server",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-17T22:46:32Z",
-            "owner": "kube-rs",
-            "repo": "version-rs",
-            "stars": 53
-          }
-        }
-      ],
-      "title": "Applications and Services"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "datafuselabs/opendal: access different storage services painlessly and efficiently with no vendor lock-in",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-19T03:01:16Z",
-            "owner": "apache",
-            "repo": "opendal",
-            "stars": 5325
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "kube-rs/kube-rs: Kubernetes Rust client and async controller runtime",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-04T19:14:52Z",
-            "owner": "kube-rs",
-            "repo": "kube",
-            "stars": 3803
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "open-telemetry/opentelemetry-rust: OpenTelemetry is a set of APIs, SDKs, tooling and integrations that are designed for the creation and management of telemetry data such as traces, metrics, and logs.",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-18T15:52:52Z",
-            "owner": "open-telemetry",
-            "repo": "opentelemetry-rust",
-            "stars": 2683
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "containers/libkrun: a dynamic library providing Virtualization-based process isolation capabilities",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-18T12:56:32Z",
-            "owner": "libkrun",
-            "repo": "libkrun",
-            "stars": 2599
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "qovery/engine: An open-source abstraction layer library that turns easy apps deployment on AWS, GCP, Azure, and other Cloud providers",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-18T15:08:27Z",
-            "owner": "Qovery",
-            "repo": "engine",
-            "stars": 2459
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "deislabs/runwasi: a project to facilitate running wasm workloads managed by containerd either directly (ie. through ctr) or as directed by Kubelet via the CRI plugin",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-19T00:15:44Z",
-            "owner": "containerd",
-            "repo": "runwasi",
-            "stars": 1328
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "olix0r/kubert: Kubernetes runtime helpers based on kube-rs",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-14T03:03:45Z",
-            "owner": "olix0r",
-            "repo": "kubert",
-            "stars": 182
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "passcod/cni-plugins: crate/framework to write CNI (container networking) plugins in Rust (includes a few custom plugins as well)",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Rust",
-            "last_commit": "2022-04-22T01:49:43Z",
-            "owner": "passcod",
-            "repo": "cni-plugins",
-            "stars": 20
-          }
-        }
-      ],
-      "title": "Libraries"
-    },
-    {
-      "description": "All contents of this repository are licensed under the MIT license except for the logo directory. The logo directory and its contents (including the logo itself) are licensed under the CC BY 4.0 license.",
-      "items": [],
-      "title": "Licenses"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T05:56:28.487Z",
+    "last_updated": "2026-08-19T12:50:46.689Z",
     "original_repository": "awesome-rust-cloud-native/awesome-rust-cloud-native",
+    "original_repository_id": 362346271,
     "original_repository_sha": "224f47fe71ba309ebf934de9622512edc1ab6a65",
     "enhanced_repository": "enhansome/enhansome-rust-cloud-native",
     "enhanced_repository_description": null,
