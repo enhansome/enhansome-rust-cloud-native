@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 107505869,
                 "language": "Rust",
-                "last_commit": "2026-08-19T10:47:59Z",
+                "last_commit": "2026-08-19T16:38:50Z",
                 "owner": "firecracker-microvm",
                 "repo": "firecracker",
-                "stars": 36138
+                "stars": 36158
               }
             },
             {
@@ -44,10 +44,10 @@
                 "archived": false,
                 "id": 48833910,
                 "language": "Rust",
-                "last_commit": "2026-08-19T10:37:56Z",
+                "last_commit": "2026-08-20T02:27:39Z",
                 "owner": "tikv",
                 "repo": "tikv",
-                "stars": 16807
+                "stars": 16808
               }
             },
             {
@@ -74,10 +74,10 @@
                 "archived": false,
                 "id": 302827809,
                 "language": "Rust",
-                "last_commit": "2026-08-19T12:44:14Z",
+                "last_commit": "2026-08-20T05:55:08Z",
                 "owner": "databendlabs",
                 "repo": "databend",
-                "stars": 9415
+                "stars": 9416
               }
             },
             {
@@ -89,10 +89,10 @@
                 "archived": false,
                 "id": 113404957,
                 "language": "Rust",
-                "last_commit": "2026-08-19T11:50:15Z",
+                "last_commit": "2026-08-19T23:02:15Z",
                 "owner": "kata-containers",
                 "repo": "kata-containers",
-                "stars": 8573
+                "stars": 8578
               }
             },
             {
@@ -149,7 +149,7 @@
                 "archived": false,
                 "id": 140121383,
                 "language": "Rust",
-                "last_commit": "2026-08-19T04:25:02Z",
+                "last_commit": "2026-08-19T17:31:50Z",
                 "owner": "linkerd",
                 "repo": "linkerd2-proxy",
                 "stars": 2140
@@ -167,7 +167,7 @@
                 "last_commit": "2026-02-09T11:22:20Z",
                 "owner": "libkrun",
                 "repo": "krunvm",
-                "stars": 1734
+                "stars": 1735
               }
             },
             {
@@ -179,7 +179,7 @@
                 "archived": false,
                 "id": 296550082,
                 "language": "Rust",
-                "last_commit": "2026-08-18T08:47:16Z",
+                "last_commit": "2026-08-19T20:28:06Z",
                 "owner": "dragonflyoss",
                 "repo": "nydus",
                 "stars": 1641
@@ -194,7 +194,7 @@
                 "archived": false,
                 "id": 387804799,
                 "language": "Rust",
-                "last_commit": "2026-08-19T12:50:07Z",
+                "last_commit": "2026-08-20T04:37:17Z",
                 "owner": "hook0",
                 "repo": "hook0",
                 "stars": 1477
@@ -209,7 +209,7 @@
                 "archived": false,
                 "id": 204673264,
                 "language": "Rust",
-                "last_commit": "2026-08-19T09:15:56Z",
+                "last_commit": "2026-08-19T16:30:07Z",
                 "owner": "openebs",
                 "repo": "mayastor",
                 "stars": 1061
@@ -324,7 +324,7 @@
                 "last_commit": "2026-08-19T03:01:16Z",
                 "owner": "apache",
                 "repo": "opendal",
-                "stars": 5325
+                "stars": 5327
               }
             },
             {
@@ -351,7 +351,7 @@
                 "archived": false,
                 "id": 221058575,
                 "language": "Rust",
-                "last_commit": "2026-08-19T08:51:04Z",
+                "last_commit": "2026-08-19T17:07:53Z",
                 "owner": "open-telemetry",
                 "repo": "opentelemetry-rust",
                 "stars": 2684
@@ -366,10 +366,10 @@
                 "archived": false,
                 "id": 287326438,
                 "language": "Rust",
-                "last_commit": "2026-08-19T11:02:59Z",
+                "last_commit": "2026-08-19T15:30:15Z",
                 "owner": "libkrun",
                 "repo": "libkrun",
-                "stars": 2602
+                "stars": 2603
               }
             },
             {
@@ -381,7 +381,7 @@
                 "archived": false,
                 "id": 305982568,
                 "language": "Rust",
-                "last_commit": "2026-08-18T15:08:27Z",
+                "last_commit": "2026-08-19T16:01:31Z",
                 "owner": "Qovery",
                 "repo": "engine",
                 "stars": 2459
@@ -396,7 +396,7 @@
                 "archived": false,
                 "id": 452780719,
                 "language": "Rust",
-                "last_commit": "2026-08-19T00:15:44Z",
+                "last_commit": "2026-08-20T00:15:41Z",
                 "owner": "containerd",
                 "repo": "runwasi",
                 "stars": 1329
@@ -442,7 +442,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:50:46.689Z",
+    "last_updated": "2026-08-20T05:56:47.530Z",
     "original_repository": "awesome-rust-cloud-native/awesome-rust-cloud-native",
     "original_repository_id": 362346271,
     "original_repository_sha": "224f47fe71ba309ebf934de9622512edc1ab6a65",
