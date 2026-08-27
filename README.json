@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 107505869,
                 "language": "Rust",
-                "last_commit": "2026-08-26T17:44:55Z",
+                "last_commit": "2026-08-27T13:15:02Z",
                 "owner": "firecracker-microvm",
                 "repo": "firecracker",
-                "stars": 36312
+                "stars": 36318
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-27T09:09:03Z",
                 "owner": "tikv",
                 "repo": "tikv",
-                "stars": 16812
+                "stars": 16814
               }
             },
             {
@@ -74,7 +74,7 @@
                 "archived": false,
                 "id": 302827809,
                 "language": "Rust",
-                "last_commit": "2026-08-27T11:02:17Z",
+                "last_commit": "2026-08-27T16:16:57Z",
                 "owner": "databendlabs",
                 "repo": "databend",
                 "stars": 9424
@@ -89,10 +89,10 @@
                 "archived": false,
                 "id": 113404957,
                 "language": "Rust",
-                "last_commit": "2026-08-27T11:48:13Z",
+                "last_commit": "2026-08-27T15:29:47Z",
                 "owner": "kata-containers",
                 "repo": "kata-containers",
-                "stars": 8611
+                "stars": 8613
               }
             },
             {
@@ -104,10 +104,10 @@
                 "archived": false,
                 "id": 352051262,
                 "language": "Rust",
-                "last_commit": "2026-08-26T00:44:41Z",
+                "last_commit": "2026-08-27T12:46:53Z",
                 "owner": "youki-dev",
                 "repo": "youki",
-                "stars": 7566
+                "stars": 7567
               }
             },
             {
@@ -149,7 +149,7 @@
                 "archived": false,
                 "id": 140121383,
                 "language": "Rust",
-                "last_commit": "2026-08-27T10:05:07Z",
+                "last_commit": "2026-08-27T15:02:36Z",
                 "owner": "linkerd",
                 "repo": "linkerd2-proxy",
                 "stars": 2143
@@ -179,7 +179,7 @@
                 "archived": false,
                 "id": 296550082,
                 "language": "Rust",
-                "last_commit": "2026-08-27T02:04:54Z",
+                "last_commit": "2026-08-27T13:11:43Z",
                 "owner": "dragonflyoss",
                 "repo": "nydus",
                 "stars": 1645
@@ -194,7 +194,7 @@
                 "archived": false,
                 "id": 387804799,
                 "language": "Rust",
-                "last_commit": "2026-08-27T11:37:34Z",
+                "last_commit": "2026-08-27T16:28:55Z",
                 "owner": "hook0",
                 "repo": "hook0",
                 "stars": 1482
@@ -321,10 +321,10 @@
                 "archived": false,
                 "id": 459025965,
                 "language": "Rust",
-                "last_commit": "2026-08-27T11:31:40Z",
+                "last_commit": "2026-08-27T16:25:17Z",
                 "owner": "apache",
                 "repo": "opendal",
-                "stars": 5341
+                "stars": 5343
               }
             },
             {
@@ -369,7 +369,7 @@
                 "last_commit": "2026-08-26T09:17:39Z",
                 "owner": "libkrun",
                 "repo": "libkrun",
-                "stars": 2629
+                "stars": 2633
               }
             },
             {
@@ -381,7 +381,7 @@
                 "archived": false,
                 "id": 305982568,
                 "language": "Rust",
-                "last_commit": "2026-08-27T10:04:21Z",
+                "last_commit": "2026-08-27T13:19:22Z",
                 "owner": "Qovery",
                 "repo": "engine",
                 "stars": 2460
@@ -442,7 +442,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:01:59.047Z",
+    "last_updated": "2026-08-27T16:38:42.977Z",
     "original_repository_info": {
       "archived": false,
       "id": 362346271,
