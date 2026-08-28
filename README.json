@@ -14,11 +14,12 @@
                 "archived": false,
                 "id": 107505869,
                 "language": "Rust",
-                "last_commit": "2026-08-27T13:15:02Z",
+                "last_commit": "2026-08-28T11:50:23Z",
                 "owner": "firecracker-microvm",
                 "repo": "firecracker",
-                "stars": 36318
-              }
+                "stars": 36346
+              },
+              "first_seen": "2026-08-28T17:37:07.185Z"
             },
             {
               "node_type": "item",
@@ -32,8 +33,9 @@
                 "last_commit": "2026-08-26T15:43:58Z",
                 "owner": "valeriansaliou",
                 "repo": "sonic",
-                "stars": 21320
-              }
+                "stars": 21323
+              },
+              "first_seen": "2026-08-28T17:37:07.185Z"
             },
             {
               "node_type": "item",
@@ -44,11 +46,12 @@
                 "archived": false,
                 "id": 48833910,
                 "language": "Rust",
-                "last_commit": "2026-08-27T09:09:03Z",
+                "last_commit": "2026-08-28T12:19:44Z",
                 "owner": "tikv",
                 "repo": "tikv",
-                "stars": 16814
-              }
+                "stars": 16817
+              },
+              "first_seen": "2026-08-28T17:37:07.185Z"
             },
             {
               "node_type": "item",
@@ -59,11 +62,12 @@
                 "archived": false,
                 "id": 179385712,
                 "language": "Rust",
-                "last_commit": "2026-08-25T19:01:08Z",
+                "last_commit": "2026-08-28T02:13:47Z",
                 "owner": "bottlerocket-os",
                 "repo": "bottlerocket",
-                "stars": 9664
-              }
+                "stars": 9665
+              },
+              "first_seen": "2026-08-28T17:37:07.185Z"
             },
             {
               "node_type": "item",
@@ -74,11 +78,12 @@
                 "archived": false,
                 "id": 302827809,
                 "language": "Rust",
-                "last_commit": "2026-08-27T16:16:57Z",
+                "last_commit": "2026-08-28T16:29:32Z",
                 "owner": "databendlabs",
                 "repo": "databend",
                 "stars": 9424
-              }
+              },
+              "first_seen": "2026-08-28T17:37:07.185Z"
             },
             {
               "node_type": "item",
@@ -89,11 +94,12 @@
                 "archived": false,
                 "id": 113404957,
                 "language": "Rust",
-                "last_commit": "2026-08-27T15:29:47Z",
+                "last_commit": "2026-08-28T15:44:05Z",
                 "owner": "kata-containers",
                 "repo": "kata-containers",
-                "stars": 8613
-              }
+                "stars": 8616
+              },
+              "first_seen": "2026-08-28T17:37:07.185Z"
             },
             {
               "node_type": "item",
@@ -104,11 +110,12 @@
                 "archived": false,
                 "id": 352051262,
                 "language": "Rust",
-                "last_commit": "2026-08-27T12:46:53Z",
+                "last_commit": "2026-08-28T00:43:11Z",
                 "owner": "youki-dev",
                 "repo": "youki",
-                "stars": 7567
-              }
+                "stars": 7571
+              },
+              "first_seen": "2026-08-28T17:37:07.185Z"
             },
             {
               "node_type": "item",
@@ -123,7 +130,8 @@
                 "owner": "fluvio-community",
                 "repo": "fluvio",
                 "stars": 5248
-              }
+              },
+              "first_seen": "2026-08-28T17:37:07.185Z"
             },
             {
               "node_type": "item",
@@ -138,7 +146,8 @@
                 "owner": "krustlet",
                 "repo": "krustlet",
                 "stars": 3601
-              }
+              },
+              "first_seen": "2026-08-28T17:37:07.185Z"
             },
             {
               "node_type": "item",
@@ -149,11 +158,12 @@
                 "archived": false,
                 "id": 140121383,
                 "language": "Rust",
-                "last_commit": "2026-08-27T15:02:36Z",
+                "last_commit": "2026-08-28T14:53:14Z",
                 "owner": "linkerd",
                 "repo": "linkerd2-proxy",
                 "stars": 2143
-              }
+              },
+              "first_seen": "2026-08-28T17:37:07.185Z"
             },
             {
               "node_type": "item",
@@ -167,8 +177,9 @@
                 "last_commit": "2026-08-25T09:08:10Z",
                 "owner": "libkrun",
                 "repo": "krunvm",
-                "stars": 1738
-              }
+                "stars": 1740
+              },
+              "first_seen": "2026-08-28T17:37:07.185Z"
             },
             {
               "node_type": "item",
@@ -179,11 +190,12 @@
                 "archived": false,
                 "id": 296550082,
                 "language": "Rust",
-                "last_commit": "2026-08-27T13:11:43Z",
+                "last_commit": "2026-08-28T09:51:00Z",
                 "owner": "dragonflyoss",
                 "repo": "nydus",
-                "stars": 1645
-              }
+                "stars": 1646
+              },
+              "first_seen": "2026-08-28T17:37:07.185Z"
             },
             {
               "node_type": "item",
@@ -194,11 +206,12 @@
                 "archived": false,
                 "id": 387804799,
                 "language": "Rust",
-                "last_commit": "2026-08-27T16:28:55Z",
+                "last_commit": "2026-08-28T13:33:55Z",
                 "owner": "hook0",
                 "repo": "hook0",
                 "stars": 1482
-              }
+              },
+              "first_seen": "2026-08-28T17:37:07.185Z"
             },
             {
               "node_type": "item",
@@ -209,11 +222,12 @@
                 "archived": false,
                 "id": 204673264,
                 "language": "Rust",
-                "last_commit": "2026-08-24T12:42:28Z",
+                "last_commit": "2026-08-28T15:16:00Z",
                 "owner": "openebs",
                 "repo": "mayastor",
                 "stars": 1061
-              }
+              },
+              "first_seen": "2026-08-28T17:37:07.185Z"
             },
             {
               "node_type": "item",
@@ -228,7 +242,8 @@
                 "owner": "tremor-rs",
                 "repo": "tremor-runtime",
                 "stars": 931
-              }
+              },
+              "first_seen": "2026-08-28T17:37:07.185Z"
             },
             {
               "node_type": "item",
@@ -243,7 +258,8 @@
                 "owner": "apache",
                 "repo": "teaclave",
                 "stars": 805
-              }
+              },
+              "first_seen": "2026-08-28T17:37:07.185Z"
             },
             {
               "node_type": "item",
@@ -258,7 +274,8 @@
                 "owner": "kube-rs",
                 "repo": "controller-rs",
                 "stars": 338
-              }
+              },
+              "first_seen": "2026-08-28T17:37:07.185Z"
             },
             {
               "node_type": "item",
@@ -273,7 +290,8 @@
                 "owner": "lockc-project",
                 "repo": "lockc",
                 "stars": 233
-              }
+              },
+              "first_seen": "2026-08-28T17:37:07.185Z"
             },
             {
               "node_type": "item",
@@ -288,7 +306,8 @@
                 "owner": "kubewarden",
                 "repo": "policy-server",
                 "stars": 151
-              }
+              },
+              "first_seen": "2026-08-28T17:37:07.185Z"
             },
             {
               "node_type": "item",
@@ -303,7 +322,8 @@
                 "owner": "kube-rs",
                 "repo": "version-rs",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-28T17:37:07.185Z"
             }
           ],
           "description": null,
@@ -321,11 +341,12 @@
                 "archived": false,
                 "id": 459025965,
                 "language": "Rust",
-                "last_commit": "2026-08-27T16:25:17Z",
+                "last_commit": "2026-08-28T16:34:48Z",
                 "owner": "apache",
                 "repo": "opendal",
-                "stars": 5343
-              }
+                "stars": 5355
+              },
+              "first_seen": "2026-08-28T17:37:07.185Z"
             },
             {
               "node_type": "item",
@@ -340,7 +361,8 @@
                 "owner": "kube-rs",
                 "repo": "kube",
                 "stars": 3805
-              }
+              },
+              "first_seen": "2026-08-28T17:37:07.185Z"
             },
             {
               "node_type": "item",
@@ -351,11 +373,12 @@
                 "archived": false,
                 "id": 221058575,
                 "language": "Rust",
-                "last_commit": "2026-08-26T06:31:46Z",
+                "last_commit": "2026-08-27T20:27:28Z",
                 "owner": "open-telemetry",
                 "repo": "opentelemetry-rust",
-                "stars": 2689
-              }
+                "stars": 2691
+              },
+              "first_seen": "2026-08-28T17:37:07.185Z"
             },
             {
               "node_type": "item",
@@ -369,8 +392,9 @@
                 "last_commit": "2026-08-26T09:17:39Z",
                 "owner": "libkrun",
                 "repo": "libkrun",
-                "stars": 2633
-              }
+                "stars": 2638
+              },
+              "first_seen": "2026-08-28T17:37:07.185Z"
             },
             {
               "node_type": "item",
@@ -381,11 +405,12 @@
                 "archived": false,
                 "id": 305982568,
                 "language": "Rust",
-                "last_commit": "2026-08-27T13:19:22Z",
+                "last_commit": "2026-08-28T13:17:47Z",
                 "owner": "Qovery",
                 "repo": "engine",
                 "stars": 2460
-              }
+              },
+              "first_seen": "2026-08-28T17:37:07.185Z"
             },
             {
               "node_type": "item",
@@ -396,11 +421,12 @@
                 "archived": false,
                 "id": 452780719,
                 "language": "Rust",
-                "last_commit": "2026-08-27T01:45:00Z",
+                "last_commit": "2026-08-28T02:55:30Z",
                 "owner": "containerd",
                 "repo": "runwasi",
                 "stars": 1331
-              }
+              },
+              "first_seen": "2026-08-28T17:37:07.185Z"
             },
             {
               "node_type": "item",
@@ -415,7 +441,8 @@
                 "owner": "olix0r",
                 "repo": "kubert",
                 "stars": 182
-              }
+              },
+              "first_seen": "2026-08-28T17:37:07.185Z"
             },
             {
               "node_type": "item",
@@ -430,7 +457,8 @@
                 "owner": "passcod",
                 "repo": "cni-plugins",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T17:37:07.185Z"
             }
           ],
           "description": null,
@@ -442,7 +470,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T16:38:42.977Z",
+    "last_updated": "2026-08-28T17:37:07.185Z",
     "original_repository_info": {
       "archived": false,
       "id": 362346271,
