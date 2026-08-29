@@ -12,12 +12,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Secure and fast microVMs for serverless computing.",
+                "homepage": "http://firecracker-microvm.io",
                 "id": 107505869,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T11:50:23Z",
+                "open_issues": 103,
                 "owner": "firecracker-microvm",
                 "repo": "firecracker",
-                "stars": 36346
+                "stars": 36351,
+                "topics": [
+                  "containers",
+                  "minimalist",
+                  "open-source",
+                  "oversubscription",
+                  "rust",
+                  "sandbox",
+                  "serverless",
+                  "virtual-machine",
+                  "virtualization"
+                ]
               },
               "first_seen": "2026-08-28T17:37:07.185Z"
             },
@@ -28,12 +43,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.",
+                "homepage": "https://crates.io/crates/sonic-server",
                 "id": 172714919,
                 "language": "Rust",
+                "license": "MPL-2.0",
                 "last_commit": "2026-08-26T15:43:58Z",
+                "open_issues": 62,
                 "owner": "valeriansaliou",
                 "repo": "sonic",
-                "stars": 21323
+                "stars": 21323,
+                "topics": [
+                  "backend",
+                  "database",
+                  "graph",
+                  "index",
+                  "infrastructure",
+                  "rust",
+                  "search",
+                  "search-engine",
+                  "search-server",
+                  "server"
+                ]
               },
               "first_seen": "2026-08-28T17:37:07.185Z"
             },
@@ -44,12 +75,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Distributed transactional key-value database, originally created to complement TiDB",
+                "homepage": "https://tikv.org",
                 "id": 48833910,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T12:19:44Z",
+                "open_issues": 1799,
                 "owner": "tikv",
                 "repo": "tikv",
-                "stars": 16817
+                "stars": 16818,
+                "topics": [
+                  "cncf",
+                  "consensus",
+                  "distributed-transactions",
+                  "hacktoberfest",
+                  "key-value",
+                  "raft",
+                  "rocksdb",
+                  "rust",
+                  "tidb",
+                  "tikv"
+                ]
               },
               "first_seen": "2026-08-28T17:37:07.185Z"
             },
@@ -60,12 +107,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An operating system designed for hosting containers",
+                "homepage": "https://bottlerocket.dev",
                 "id": 179385712,
                 "language": "Rust",
-                "last_commit": "2026-08-28T02:13:47Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T21:50:21Z",
+                "open_issues": 196,
                 "owner": "bottlerocket-os",
                 "repo": "bottlerocket",
-                "stars": 9665
+                "stars": 9665,
+                "topics": [
+                  "containers",
+                  "linux",
+                  "operating-system",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T17:37:07.185Z"
             },
@@ -76,12 +133,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  — rebuilt from scratch. Unified architecture on your S3.",
+                "homepage": "https://docs.databend.com",
                 "id": 302827809,
                 "language": "Rust",
-                "last_commit": "2026-08-28T16:29:32Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T04:43:02Z",
+                "open_issues": 563,
                 "owner": "databendlabs",
                 "repo": "databend",
-                "stars": 9424
+                "stars": 9424,
+                "topics": [
+                  "ai",
+                  "bigdata",
+                  "cloud-native",
+                  "database",
+                  "elasticsearch",
+                  "geospatial",
+                  "lakehouse",
+                  "olap",
+                  "rust",
+                  "serverless",
+                  "snowflake",
+                  "sql",
+                  "vector-database",
+                  "vector-search"
+                ]
               },
               "first_seen": "2026-08-28T17:37:07.185Z"
             },
@@ -92,12 +169,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/",
+                "homepage": null,
                 "id": 113404957,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T15:44:05Z",
+                "open_issues": 1175,
                 "owner": "kata-containers",
                 "repo": "kata-containers",
-                "stars": 8616
+                "stars": 8619,
+                "topics": [
+                  "containers",
+                  "cri",
+                  "cri-o",
+                  "docker",
+                  "firecracker",
+                  "k8s",
+                  "kubernetes",
+                  "kvm",
+                  "oci",
+                  "qemu",
+                  "security",
+                  "virtual-machine",
+                  "virtualization"
+                ]
               },
               "first_seen": "2026-08-28T17:37:07.185Z"
             },
@@ -108,12 +204,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A container runtime written in Rust",
+                "homepage": "https://youki-dev.github.io/youki/",
                 "id": 352051262,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T00:43:11Z",
+                "open_issues": 152,
                 "owner": "youki-dev",
                 "repo": "youki",
-                "stars": 7571
+                "stars": 7571,
+                "topics": [
+                  "containers",
+                  "docker",
+                  "kubernetes",
+                  "oci",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T17:37:07.185Z"
             },
@@ -124,12 +231,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🦀 event stream processing for developers to collect and transform data in motion to power responsive data intensive applications.",
+                "homepage": "https://www.fluvio.io/",
                 "id": 205473061,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-25T11:39:23Z",
+                "open_issues": 140,
                 "owner": "fluvio-community",
                 "repo": "fluvio",
-                "stars": 5248
+                "stars": 5248,
+                "topics": [
+                  "cloud-native",
+                  "data-analytics",
+                  "data-flow",
+                  "data-integration",
+                  "data-pipelines",
+                  "distributed-systems",
+                  "event-driven-architecture",
+                  "real-time",
+                  "rust",
+                  "serverless",
+                  "stateful",
+                  "stream-processing",
+                  "stream-processing-engine",
+                  "streaming",
+                  "streaming-analytics",
+                  "streaming-data",
+                  "streaming-data-pipelines",
+                  "streaming-data-processing",
+                  "webassembly"
+                ]
               },
               "first_seen": "2026-08-28T17:37:07.185Z"
             },
@@ -140,12 +272,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Kubernetes Rust Kubelet",
+                "homepage": "https://krustlet.dev",
                 "id": 226983227,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2023-10-02T18:41:06Z",
+                "open_issues": 137,
                 "owner": "krustlet",
                 "repo": "krustlet",
-                "stars": 3601
+                "stars": 3601,
+                "topics": [
+                  "krustlet",
+                  "kubelet",
+                  "kubernetes",
+                  "kubernetes-kubelet",
+                  "rust",
+                  "wascc",
+                  "wasi",
+                  "wasm"
+                ]
               },
               "first_seen": "2026-08-28T17:37:07.185Z"
             },
@@ -156,12 +302,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A purpose-built proxy for the Linkerd service mesh. Written in Rust.",
+                "homepage": "https://linkerd.io",
                 "id": 140121383,
                 "language": "Rust",
-                "last_commit": "2026-08-28T14:53:14Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T18:34:24Z",
+                "open_issues": 18,
                 "owner": "linkerd",
                 "repo": "linkerd2-proxy",
-                "stars": 2143
+                "stars": 2143,
+                "topics": [
+                  "cncf",
+                  "linkerd",
+                  "rust",
+                  "service-mesh"
+                ]
               },
               "first_seen": "2026-08-28T17:37:07.185Z"
             },
@@ -172,12 +328,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Create microVMs from OCI images",
+                "homepage": null,
                 "id": 333174273,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-25T09:08:10Z",
+                "open_issues": 26,
                 "owner": "libkrun",
                 "repo": "krunvm",
-                "stars": 1740
+                "stars": 1740,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:37:07.185Z"
             },
@@ -188,12 +349,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Nydus - a reliable, high-performance on-demand load filesytem framework for container image and data distribution.",
+                "homepage": "https://nydus.dev/",
                 "id": 296550082,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T09:51:00Z",
+                "open_issues": 27,
                 "owner": "dragonflyoss",
                 "repo": "nydus",
-                "stars": 1646
+                "stars": 1646,
+                "topics": [
+                  "accelerator",
+                  "container",
+                  "container-image",
+                  "containerd",
+                  "docker",
+                  "filesystem",
+                  "snapshotter",
+                  "storage"
+                ]
               },
               "first_seen": "2026-08-28T17:37:07.185Z"
             },
@@ -204,12 +379,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-source webhook server that helps you provide webhooks to your users. It handles for you a great amount of features that are usually tedious to (re)implement.",
+                "homepage": "https://www.hook0.com",
                 "id": 387804799,
                 "language": "Rust",
-                "last_commit": "2026-08-28T13:33:55Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T04:24:01Z",
+                "open_issues": 5,
                 "owner": "hook0",
                 "repo": "hook0",
-                "stars": 1482
+                "stars": 1482,
+                "topics": [
+                  "webhook",
+                  "webhook-api",
+                  "webhook-events",
+                  "webhook-server",
+                  "webhook-service",
+                  "webhooks"
+                ]
               },
               "first_seen": "2026-08-28T17:37:07.185Z"
             },
@@ -220,12 +407,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dynamically provision Stateful Persistent Replicated Cluster-wide Fabric Volumes & Filesystems for Kubernetes that is provisioned from an optimized NVME SPDK backend data storage stack.",
+                "homepage": null,
                 "id": 204673264,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T15:16:00Z",
+                "open_issues": 79,
                 "owner": "openebs",
                 "repo": "mayastor",
-                "stars": 1061
+                "stars": 1061,
+                "topics": [
+                  "containers",
+                  "data-plane",
+                  "k8s",
+                  "kubernetes",
+                  "microvm",
+                  "nvme",
+                  "pvc",
+                  "rust",
+                  "storage",
+                  "storage-device",
+                  "storage-systems"
+                ]
               },
               "first_seen": "2026-08-28T17:37:07.185Z"
             },
@@ -236,12 +440,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Main Tremor Project Rust Codebase",
+                "homepage": "https://www.tremor.rs",
                 "id": 211798430,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2025-07-27T13:35:37Z",
+                "open_issues": 153,
                 "owner": "tremor-rs",
                 "repo": "tremor-runtime",
-                "stars": 931
+                "stars": 931,
+                "topics": [
+                  "hacktoberfest",
+                  "hacktoberfest2021",
+                  "rust",
+                  "tremor",
+                  "tremor-languages",
+                  "tremor-query",
+                  "tremor-runtime",
+                  "tremor-script"
+                ]
               },
               "first_seen": "2026-08-28T17:37:07.185Z"
             },
@@ -252,12 +470,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Apache Teaclave™ is an open source universal secure computing platform, making computation on privacy-sensitive data safe and simple.",
+                "homepage": "https://teaclave.apache.org",
                 "id": 195861277,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-10T01:27:17Z",
+                "open_issues": 20,
                 "owner": "apache",
                 "repo": "teaclave",
-                "stars": 805
+                "stars": 805,
+                "topics": [
+                  "confidential-computing",
+                  "memory-safe",
+                  "rust",
+                  "sgx",
+                  "tee",
+                  "trusted-execution-environment",
+                  "trustzone"
+                ]
               },
               "first_seen": "2026-08-28T17:37:07.185Z"
             },
@@ -268,12 +499,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A kubernetes reference controller with actix-web",
+                "homepage": null,
                 "id": 183964538,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-20T23:55:01Z",
+                "open_issues": 15,
                 "owner": "kube-rs",
                 "repo": "controller-rs",
-                "stars": 338
+                "stars": 338,
+                "topics": [
+                  "actix",
+                  "controller",
+                  "example",
+                  "kubernetes"
+                ]
               },
               "first_seen": "2026-08-28T17:37:07.185Z"
             },
@@ -284,12 +525,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Making containers more secure with eBPF and Linux Security Modules (LSM)",
+                "homepage": "https://lockc-project.github.io/",
                 "id": 360682696,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2024-06-02T14:22:14Z",
+                "open_issues": 23,
                 "owner": "lockc-project",
                 "repo": "lockc",
-                "stars": 233
+                "stars": 233,
+                "topics": [
+                  "containers",
+                  "ebpf",
+                  "kubernetes",
+                  "lsm",
+                  "lsm-hooks",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T17:37:07.185Z"
             },
@@ -300,12 +553,26 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Webhook server that evaluates WebAssembly policies to validate Kubernetes requests",
+                "homepage": "https://kubewarden.io",
                 "id": 321691643,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-01-19T09:56:31Z",
+                "open_issues": 1,
                 "owner": "kubewarden",
                 "repo": "policy-server",
-                "stars": 151
+                "stars": 151,
+                "topics": [
+                  "hacktoberfest",
+                  "kubernetes",
+                  "kubernetes-security",
+                  "kubernetes-webhook",
+                  "policy",
+                  "policy-as-code",
+                  "rust",
+                  "webassembly"
+                ]
               },
               "first_seen": "2026-08-28T17:37:07.185Z"
             },
@@ -316,12 +583,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Example kubernetes reflector and web server with axum",
+                "homepage": null,
                 "id": 197987967,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-17T22:46:32Z",
+                "open_issues": 3,
                 "owner": "kube-rs",
                 "repo": "version-rs",
-                "stars": 53
+                "stars": 53,
+                "topics": [
+                  "axum",
+                  "example",
+                  "kubernetes",
+                  "reflector"
+                ]
               },
               "first_seen": "2026-08-28T17:37:07.185Z"
             }
@@ -339,12 +616,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Apache OpenDAL: One Layer, All Storage.",
+                "homepage": "https://opendal.apache.org",
                 "id": 459025965,
                 "language": "Rust",
-                "last_commit": "2026-08-28T16:34:48Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T19:02:47Z",
+                "open_issues": 316,
                 "owner": "apache",
                 "repo": "opendal",
-                "stars": 5355
+                "stars": 5357,
+                "topics": [
+                  "azblob",
+                  "gcs",
+                  "hacktoberfest",
+                  "redis",
+                  "rust",
+                  "s3",
+                  "storage"
+                ]
               },
               "first_seen": "2026-08-28T17:37:07.185Z"
             },
@@ -355,12 +645,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rust Kubernetes client and controller runtime",
+                "homepage": "https://kube.rs",
                 "id": 157133149,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-04T19:14:52Z",
+                "open_issues": 135,
                 "owner": "kube-rs",
                 "repo": "kube",
-                "stars": 3805
+                "stars": 3805,
+                "topics": [
+                  "client",
+                  "kubernetes",
+                  "runtime",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T17:37:07.185Z"
             },
@@ -371,12 +671,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Rust OpenTelemetry implementation",
+                "homepage": "https://opentelemetry.io",
                 "id": 221058575,
                 "language": "Rust",
-                "last_commit": "2026-08-27T20:27:28Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T20:56:21Z",
+                "open_issues": 258,
                 "owner": "open-telemetry",
                 "repo": "opentelemetry-rust",
-                "stars": 2691
+                "stars": 2691,
+                "topics": [
+                  "jaeger",
+                  "logging",
+                  "metrics",
+                  "opentelemetry",
+                  "prometheus",
+                  "tracing",
+                  "zipkin"
+                ]
               },
               "first_seen": "2026-08-28T17:37:07.185Z"
             },
@@ -387,12 +700,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A dynamic library providing Virtualization-based process isolation capabilities",
+                "homepage": null,
                 "id": 287326438,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T09:17:39Z",
+                "open_issues": 95,
                 "owner": "libkrun",
                 "repo": "libkrun",
-                "stars": 2638
+                "stars": 2639,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:37:07.185Z"
             },
@@ -403,12 +721,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Orchestration Engine To Deliver Self-Service Infrastructure ⚡️",
+                "homepage": "https://www.qovery.com",
                 "id": 305982568,
                 "language": "Rust",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-28T13:17:47Z",
+                "open_issues": 0,
                 "owner": "Qovery",
                 "repo": "engine",
-                "stars": 2460
+                "stars": 2460,
+                "topics": [
+                  "aws",
+                  "azure",
+                  "cloud",
+                  "gcp",
+                  "helm",
+                  "kubernetes",
+                  "rust",
+                  "scaleway",
+                  "terraform"
+                ]
               },
               "first_seen": "2026-08-28T17:37:07.185Z"
             },
@@ -419,12 +752,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Facilitates running Wasm / WASI workloads managed by containerd",
+                "homepage": "https://runwasi.dev/",
                 "id": 452780719,
                 "language": "Rust",
-                "last_commit": "2026-08-28T02:55:30Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T00:26:24Z",
+                "open_issues": 66,
                 "owner": "containerd",
                 "repo": "runwasi",
-                "stars": 1331
+                "stars": 1332,
+                "topics": [
+                  "containerd",
+                  "kubernetes",
+                  "rust",
+                  "wasi",
+                  "wasm",
+                  "webassembly"
+                ]
               },
               "first_seen": "2026-08-28T17:37:07.185Z"
             },
@@ -435,12 +780,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rust Kubernetes runtime helpers. Based on kube-rs.",
+                "homepage": null,
                 "id": 460711569,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-14T03:03:45Z",
+                "open_issues": 18,
                 "owner": "olix0r",
                 "repo": "kubert",
-                "stars": 182
+                "stars": 182,
+                "topics": [
+                  "kubernetes"
+                ]
               },
               "first_seen": "2026-08-28T17:37:07.185Z"
             },
@@ -451,12 +803,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Library to create CNI plugins in Rust, and a set of plugins",
+                "homepage": null,
                 "id": 352305531,
                 "language": "Rust",
+                "license": "NOASSERTION",
                 "last_commit": "2022-04-22T01:49:43Z",
+                "open_issues": 0,
                 "owner": "passcod",
                 "repo": "cni-plugins",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:37:07.185Z"
             }
@@ -470,15 +827,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T17:37:07.185Z",
+    "last_updated": "2026-08-29T04:49:11.529Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome Cloud Native Rust frameworks, libraries and software",
+      "homepage": "https://github.com/awesome-rust-cloud-native/awesome-rust-cloud-native",
       "id": 362346271,
       "language": null,
+      "license": "MIT",
       "last_commit": "2026-04-27T20:52:55Z",
+      "open_issues": 1,
       "owner": "awesome-rust-cloud-native",
       "repo": "awesome-rust-cloud-native",
-      "stars": 262
+      "stars": 262,
+      "topics": [
+        "awesome-list",
+        "awesome-rust",
+        "cloud",
+        "cloud-native",
+        "containers",
+        "kubernetes",
+        "native",
+        "rust",
+        "rust-lang"
+      ]
     },
     "original_repository_sha": "224f47fe71ba309ebf934de9622512edc1ab6a65",
     "enhanced_repository": "enhansome/enhansome-rust-cloud-native",
