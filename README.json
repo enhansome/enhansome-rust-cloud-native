@@ -21,7 +21,7 @@
                 "open_issues": 98,
                 "owner": "firecracker-microvm",
                 "repo": "firecracker",
-                "stars": 36961,
+                "stars": 36972,
                 "topics": [
                   "containers",
                   "minimalist",
@@ -81,10 +81,10 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-26T05:51:10Z",
-                "open_issues": 1832,
+                "open_issues": 1833,
                 "owner": "tikv",
                 "repo": "tikv",
-                "stars": 16877,
+                "stars": 16880,
                 "topics": [
                   "cncf",
                   "consensus",
@@ -138,7 +138,7 @@
                 "id": 302827809,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-26T08:56:23Z",
+                "last_commit": "2026-09-27T08:35:50Z",
                 "open_issues": 495,
                 "owner": "databendlabs",
                 "repo": "databend",
@@ -178,7 +178,7 @@
                 "open_issues": 1186,
                 "owner": "kata-containers",
                 "repo": "kata-containers",
-                "stars": 8797,
+                "stars": 8803,
                 "topics": [
                   "containers",
                   "cri",
@@ -209,11 +209,11 @@
                 "id": 352051262,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-25T00:43:33Z",
-                "open_issues": 142,
+                "last_commit": "2026-09-26T10:23:46Z",
+                "open_issues": 148,
                 "owner": "youki-dev",
                 "repo": "youki",
-                "stars": 7611,
+                "stars": 7610,
                 "topics": [
                   "containers",
                   "docker",
@@ -240,7 +240,7 @@
                 "open_issues": 139,
                 "owner": "fluvio-community",
                 "repo": "fluvio",
-                "stars": 5258,
+                "stars": 5259,
                 "topics": [
                   "cloud-native",
                   "data-analytics",
@@ -311,7 +311,7 @@
                 "open_issues": 21,
                 "owner": "linkerd",
                 "repo": "linkerd2-proxy",
-                "stars": 2146,
+                "stars": 2147,
                 "topics": [
                   "cncf",
                   "linkerd",
@@ -355,10 +355,10 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-25T19:30:33Z",
-                "open_issues": 28,
+                "open_issues": 27,
                 "owner": "dragonflyoss",
                 "repo": "nydus",
-                "stars": 1669,
+                "stars": 1671,
                 "topics": [
                   "accelerator",
                   "container",
@@ -416,7 +416,7 @@
                 "open_issues": 78,
                 "owner": "openebs",
                 "repo": "mayastor",
-                "stars": 1067,
+                "stars": 1068,
                 "topics": [
                   "containers",
                   "data-plane",
@@ -625,7 +625,7 @@
                 "open_issues": 339,
                 "owner": "apache",
                 "repo": "opendal",
-                "stars": 5394,
+                "stars": 5395,
                 "topics": [
                   "azblob",
                   "gcs",
@@ -650,11 +650,11 @@
                 "id": 157133149,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-26T05:05:05Z",
-                "open_issues": 133,
+                "last_commit": "2026-09-27T10:30:53Z",
+                "open_issues": 135,
                 "owner": "kube-rs",
                 "repo": "kube",
-                "stars": 3830,
+                "stars": 3832,
                 "topics": [
                   "client",
                   "kubernetes",
@@ -680,7 +680,7 @@
                 "open_issues": 98,
                 "owner": "libkrun",
                 "repo": "libkrun",
-                "stars": 2720,
+                "stars": 2722,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:37:07.185Z"
@@ -701,7 +701,7 @@
                 "open_issues": 254,
                 "owner": "open-telemetry",
                 "repo": "opentelemetry-rust",
-                "stars": 2717,
+                "stars": 2719,
                 "topics": [
                   "jaeger",
                   "logging",
@@ -757,7 +757,7 @@
                 "id": 452780719,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-26T00:28:27Z",
+                "last_commit": "2026-09-27T00:33:17Z",
                 "open_issues": 68,
                 "owner": "containerd",
                 "repo": "runwasi",
@@ -827,7 +827,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T10:04:42.243Z",
+    "last_updated": "2026-09-27T10:40:09.243Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Cloud Native Rust frameworks, libraries and software",
