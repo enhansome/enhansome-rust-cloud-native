@@ -1,6 +1,6 @@
 # Awesome Rust Cloud Native with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 538,823 | 🐛 104 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 539,334 | 🐛 104 | 📅 2026-09-02
 [![License](https://img.shields.io/github/license/awesome-rust-cloud-native/awesome-rust-cloud-native)](https://github.com/awesome-rust-cloud-native/awesome-rust-cloud-native/blob/main/LICENSE)
 
 <img src="./logo/img/awesome-rust-cloud-native-logo.png" alt="Awesome Rust Cloud Native logo, which features the Ferris crab mascot on a white cloud with a light blue background." width="200">
@@ -27,21 +27,21 @@ Thank you!
 
 ### Applications and Services
 
-* **[firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) ⭐ 38,090 | 🐛 150 | 🌐 Rust | 📅 2026-11-18**: secure and fast microVMs for serverless computing
-* **[valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) ⭐ 21,388 | 🐛 51 | 🌐 Rust | 📅 2026-11-10**: fast, lightweight & schema-less search backend
-* **[tikv/tikv](https://github.com/tikv/tikv) ⭐ 16,959 | 🐛 2,009 | 🌐 Rust | 📅 2026-11-18**: distributed transactional key-value database
-* **[bottlerocket-os/bottlerocket](https://github.com/bottlerocket-os/bottlerocket) ⭐ 9,704 | 🐛 211 | 🌐 Rust | 📅 2026-11-16**: an operating system designed for hosting containers
-* **[datafuselabs/datafuse](https://github.com/datafuselabs/datafuse) ⭐ 9,500 | 🐛 473 | 🌐 Rust | 📅 2026-11-18**: A Modern Real-Time Data Processing & Analytics DBMS with Cloud-Native Architecture, built to make the Data Cloud easy
-* **[kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) ⭐ 9,175 | 🐛 1,216 | 🌐 Rust | 📅 2026-11-18**: VM-based container runtime with the security of virtual machine and speed of container
-* **[containers/youki](https://github.com/containers/youki) ⭐ 7,704 | 🐛 165 | 🌐 Rust | 📅 2026-11-18**: a container runtime written in Rust
-* **[infinyon/fluvio](https://github.com/infinyon/fluvio) ⭐ 5,269 | 🐛 141 | 🌐 Rust | 📅 2026-11-05**: A cloud-native real-time data streaming platform with in-line computation capabilities
-* **[krustlet/krustlet](https://github.com/krustlet/krustlet) ⭐ 3,600 | 🐛 158 | 🌐 Rust | 📅 2023-10-02**: Kubernetes Rust Kubelet
-* **[linkerd/linkerd2-proxy](https://github.com/linkerd/linkerd2-proxy) ⭐ 2,148 | 🐛 26 | 🌐 Rust | 📅 2026-11-16**: a purpose-built proxy for the Linkerd service mesh
-* **[containers/krunvm](https://github.com/containers/krunvm) ⭐ 1,786 | 🐛 29 | 🌐 Rust | 📅 2026-09-15**: manage lightweight VMs created from OCI images
-* **[dragonflyoss/image-service](https://github.com/dragonflyoss/image-service) ⭐ 1,712 | 🐛 23 | 🌐 Rust | 📅 2026-11-18**: container image service focused on speed, space, network efficiency and data integrity, replacement of OCI
+* **[firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) ⭐ 38,116 | 🐛 150 | 🌐 Rust | 📅 2026-11-18**: secure and fast microVMs for serverless computing
+* **[valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) ⭐ 21,390 | 🐛 51 | 🌐 Rust | 📅 2026-11-10**: fast, lightweight & schema-less search backend
+* **[tikv/tikv](https://github.com/tikv/tikv) ⭐ 16,960 | 🐛 2,006 | 🌐 Rust | 📅 2026-11-19**: distributed transactional key-value database
+* **[bottlerocket-os/bottlerocket](https://github.com/bottlerocket-os/bottlerocket) ⭐ 9,705 | 🐛 211 | 🌐 Rust | 📅 2026-11-18**: an operating system designed for hosting containers
+* **[datafuselabs/datafuse](https://github.com/datafuselabs/datafuse) ⭐ 9,501 | 🐛 471 | 🌐 Rust | 📅 2026-11-19**: A Modern Real-Time Data Processing & Analytics DBMS with Cloud-Native Architecture, built to make the Data Cloud easy
+* **[kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) ⭐ 9,181 | 🐛 1,221 | 🌐 Rust | 📅 2026-11-19**: VM-based container runtime with the security of virtual machine and speed of container
+* **[containers/youki](https://github.com/containers/youki) ⭐ 7,706 | 🐛 165 | 🌐 Rust | 📅 2026-11-19**: a container runtime written in Rust
+* **[infinyon/fluvio](https://github.com/infinyon/fluvio) ⭐ 5,272 | 🐛 141 | 🌐 Rust | 📅 2026-11-05**: A cloud-native real-time data streaming platform with in-line computation capabilities
+* **[krustlet/krustlet](https://github.com/krustlet/krustlet) ⭐ 3,599 | 🐛 159 | 🌐 Rust | 📅 2023-10-02**: Kubernetes Rust Kubelet
+* **[linkerd/linkerd2-proxy](https://github.com/linkerd/linkerd2-proxy) ⭐ 2,148 | 🐛 27 | 🌐 Rust | 📅 2026-11-16**: a purpose-built proxy for the Linkerd service mesh
+* **[containers/krunvm](https://github.com/containers/krunvm) ⭐ 1,787 | 🐛 29 | 🌐 Rust | 📅 2026-09-15**: manage lightweight VMs created from OCI images
+* **[dragonflyoss/image-service](https://github.com/dragonflyoss/image-service) ⭐ 1,713 | 🐛 24 | 🌐 Rust | 📅 2026-11-19**: container image service focused on speed, space, network efficiency and data integrity, replacement of OCI
 * **[hook0/hook0](https://github.com/hook0/hook0) ⭐ 1,511 | 🐛 6 | 🌐 Rust | 📅 2026-11-15**: open-source webhooks-as-a-service platform handling event delivery, retries, and HMAC signatures
-* **[openebs/mayastor](https://github.com/openebs/mayastor) ⭐ 1,084 | 🐛 81 | 🌐 Rust | 📅 2026-11-13**: A cloud native declarative data plane in containers for containers
-* **[tremor-rs/tremor-runtime](https://github.com/tremor-rs/tremor-runtime) ⭐ 932 | 🐛 153 | 🌐 Rust | 📅 2025-07-27**: an event processing system that supporting complex workflows such as aggregation, rollups, an ETL language, and a query language
+* **[openebs/mayastor](https://github.com/openebs/mayastor) ⭐ 1,085 | 🐛 81 | 🌐 Rust | 📅 2026-11-13**: A cloud native declarative data plane in containers for containers
+* **[tremor-rs/tremor-runtime](https://github.com/tremor-rs/tremor-runtime) ⭐ 931 | 🐛 153 | 🌐 Rust | 📅 2025-07-27**: an event processing system that supporting complex workflows such as aggregation, rollups, an ETL language, and a query language
 * **[apache/incubator-teaclave](https://github.com/apache/incubator-teaclave) ⭐ 811 | 🐛 20 | 📅 2026-06-10**: open source universal secure computing platform, making computation on privacy-sensitive data safe and simple
 * **[unxsist/jet-pilot](https://github.com/unxsist/jet-pilot) ⭐ 663 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-07**: Kubernetes desktop client built on `kube-rs` and Tauri, with multi-cluster views, a resource graph, structured logs and a built-in kubectl terminal
 * **[kube-rs/controller-rs](https://github.com/kube-rs/controller-rs) ⭐ 343 | 🐛 7 | 🌐 Rust | 📅 2026-11-16**: a Kubernetes example controller
@@ -54,12 +54,12 @@ Thank you!
 
 ### Libraries
 
-* **[datafuselabs/opendal](https://github.com/datafuselabs/opendal) ⭐ 5,480 | 🐛 367 | 🌐 Rust | 📅 2026-11-16**: access different storage services painlessly and efficiently with no vendor lock-in
-* **[kube-rs/kube-rs](https://github.com/kube-rs/kube-rs) ⭐ 3,866 | 🐛 110 | 🌐 Rust | 📅 2026-11-16**: Kubernetes Rust client and async controller runtime
-* **[containers/libkrun](https://github.com/containers/libkrun) ⭐ 2,922 | 🐛 141 | 🌐 Rust | 📅 2026-11-18**: a dynamic library providing Virtualization-based process isolation capabilities
-* **[open-telemetry/opentelemetry-rust](https://github.com/open-telemetry/opentelemetry-rust) ⭐ 2,774 | 🐛 274 | 🌐 Rust | 📅 2026-11-18**: OpenTelemetry is a set of APIs, SDKs, tooling and integrations that are designed for the creation and management of telemetry data such as traces, metrics, and logs.
+* **[datafuselabs/opendal](https://github.com/datafuselabs/opendal) ⭐ 5,483 | 🐛 369 | 🌐 Rust | 📅 2026-11-19**: access different storage services painlessly and efficiently with no vendor lock-in
+* **[kube-rs/kube-rs](https://github.com/kube-rs/kube-rs) ⭐ 3,866 | 🐛 111 | 🌐 Rust | 📅 2026-11-16**: Kubernetes Rust client and async controller runtime
+* **[containers/libkrun](https://github.com/containers/libkrun) ⭐ 2,930 | 🐛 136 | 🌐 Rust | 📅 2026-11-19**: a dynamic library providing Virtualization-based process isolation capabilities
+* **[open-telemetry/opentelemetry-rust](https://github.com/open-telemetry/opentelemetry-rust) ⭐ 2,775 | 🐛 275 | 🌐 Rust | 📅 2026-11-19**: OpenTelemetry is a set of APIs, SDKs, tooling and integrations that are designed for the creation and management of telemetry data such as traces, metrics, and logs.
 * **[qovery/engine](https://github.com/Qovery/engine) ⭐ 2,481 | 🐛 0 | 🌐 Rust | 📅 2026-10-28**: An open-source abstraction layer library that turns easy apps deployment on AWS, GCP, Azure, and other Cloud providers
-* **[deislabs/runwasi](https://github.com/deislabs/runwasi) ⭐ 1,350 | 🐛 71 | 🌐 Rust | 📅 2026-11-18**: a project to facilitate running wasm workloads managed by containerd either directly (ie. through ctr) or as directed by Kubelet via the CRI plugin
+* **[deislabs/runwasi](https://github.com/deislabs/runwasi) ⭐ 1,351 | 🐛 71 | 🌐 Rust | 📅 2026-11-19**: a project to facilitate running wasm workloads managed by containerd either directly (ie. through ctr) or as directed by Kubelet via the CRI plugin
 * **[olix0r/kubert](https://github.com/olix0r/kubert) ⭐ 182 | 🐛 18 | 🌐 Rust | 📅 2026-08-14**: Kubernetes runtime helpers based on kube-rs
 * **[passcod/cni-plugins](https://github.com/passcod/cni-plugins) ⚠️ Archived**: crate/framework to write CNI (container networking) plugins in Rust (includes a few custom plugins as well)
 
@@ -70,4 +70,4 @@ The logo directory and its contents (including the logo itself) are licensed und
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
